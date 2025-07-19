@@ -6,7 +6,7 @@ A simple React-based app styled with Tailwind CSS that fetches and displays rand
 
 ## 🚀 Live Demo
 
-👉 Coming Soon!
+👉 [Click here to view the live demo](https://utheshni.github.io/advice-generator-app/)
 
 ---
 
