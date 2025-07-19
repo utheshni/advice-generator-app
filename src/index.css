@@ -1,0 +1,9 @@
+/* Import Tailwind CSS */
+@import "tailwindcss";
+
+/* Define custom theme colors */
+@theme {
+    --color-blue-900: hsl(217, 19%, 24%);
+    --color-blue-950: hsl(218, 23%, 16%);
+    --color-green-300: hsl(150, 100%, 66%);
+}
